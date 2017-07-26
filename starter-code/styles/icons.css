@@ -38,9 +38,16 @@
 .icon-power:before {
 	content: "\e90a";
 }
+
+/* MENU */
+----------------------------
 .icon-menu:before {
 	content: "\e902";
+	font-size: 5px;
+	color: black;
 }
+------------------------------
+
 .icon-link:before {
 	content: "\e903";
 }
